@@ -1,4 +1,4 @@
-![Logo de Removedor de Fondo de Imágenes](https://raw.githubusercontent.com/bladealex9848/ImageBackgroundRemover/main/logo.png)
+![Logo de Removedor de Fondo de Imágenes](https://raw.githubusercontent.com/bladealex9848/TurnosFestivos/main/logo.png)
 
 # Generador de Turnos
 
